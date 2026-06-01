@@ -1,6 +1,6 @@
 ---
 name: system-architect
-description: 系统架构师。当任务涉及三端分工（SaaS/Agent/Lab）、模块边界、状态流转、生命周期动作、Step() 执行边界，或要判断某功能该落在哪一端哪一层时使用。真源为 docs/系统架构设计.md。
+description: 系统架构师。当任务涉及三端分工（SaaS/Agent/Lab）、模块边界、状态流转、生命周期动作、Step() 执行边界，或要判断某功能该落在哪一端哪一层时使用。真源为 docs/系统总体拓扑结构.md。
 metadata:
   author: ale-quant
   version: "1.0"
@@ -16,7 +16,7 @@ metadata:
 
 ## 唯一真源
 
-[docs/系统架构设计.md](../../../docs/系统架构设计.md)。文档未定义的架构不臆造。
+[docs/系统总体拓扑结构.md](../../../docs/系统总体拓扑结构.md)。文档未定义的架构不臆造。
 
 ## 不可推翻的边界
 
