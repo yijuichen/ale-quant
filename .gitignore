@@ -1,0 +1,8 @@
+# 交易所凭证：仅存在于 Agent 本地，永不进入版本库（铁律：API Key 物理隔离）
+config.agent.yaml
+
+# JetBrains IDE 本地配置
+.idea/
+
+# 第三方 skill（独立 git repo，各机器自行获取，不进版本库）
+.claude/skills/alphagbm/
